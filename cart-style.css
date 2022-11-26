@@ -1,0 +1,130 @@
+@font-face{
+    src: url(fonts/HelveticaNowText-Regular.ttf);
+    font-family: hel;
+}
+body{
+    font-family: hel;
+}
+main{
+    background-color: #F2F1F0;
+   
+}
+.head{
+    width: 1424px;
+    height: 80px;
+ background-color: #F2F1F0;
+ display: flex;
+ justify-content: space-between;
+ justify-self: center;
+}
+#logo{
+    border-radius: 20px;
+    height: 60px;
+}
+
+.page-flex{
+    display: flex;
+    justify-content: center;
+}
+
+.flex-1{
+    width: 1424px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+#björn1{
+    width: 200px;
+    height: 288.67px;
+    background-color: #F2F1F0;
+}
+#text-img{
+width: 624px;
+height: 184px;
+background-color: #F2F1F0;
+}
+#checkout{
+    width: 296px;
+    height: 24px;
+  
+    margin-left: 30px;
+    position: relative;
+    bottom: 20px;
+    background-color: #F26B6B;
+}
+.vou{
+    height: 50px;
+    width: 500pxpx;
+  margin-top: 20px;
+    background-color:#F2F1F0;
+    
+}
+#voucher{
+    width: 296px;
+    height: 24px;
+    background-color: #F26B6B;
+    position: relative;
+    top: 10px;
+    left: 30px;
+  
+}
+#del1{
+    width: 872px;
+    height: 80px;
+    background-color: #F2F1F0;
+    margin-bottom:10px ;
+    
+}
+#del2{
+    width: 872px;
+    height: 128px;
+    background-color: #F2F1F0;
+    margin-bottom:10px ;
+    
+}
+
+  
+
+.total{
+    width: 352px;
+    height: 260px;
+    background-color: #F2F1F0;
+}
+.total-textbox{
+    width: 320px;
+    height: 200px;
+  background-color: #F2F1F0;
+}
+#heading{
+    width: 320px;
+    height: 28px;
+    text-align: center;
+   background-color: #F2F1F0;
+}
+#footer1{
+    width: 1424px;
+    height: 328px;
+  background-color: #88C9F2;
+}
+h1{
+    text-align: center;
+    background-color: #88C9F2;
+}
+#footer2{
+    width: 1424px;
+    height: 38px;
+    background-color: #88C9F2;
+}
+.footer-flex{
+    display: flex;
+    background-color: #88C9F2;
+    justify-content: space-between;
+}
+.ft{
+    list-style: none;
+}
+#footer2{
+    display: flex;
+    justify-content: space-between;
+}

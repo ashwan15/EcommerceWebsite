@@ -1,0 +1,154 @@
+
+@font-face {
+    src: url(fonts/HelveticaNowText-Regular.ttf);
+    font-family: hel;
+}
+@font-face {
+    src: url(fonts/Bodoni\ Regular.otf);
+    font-family: bod;
+}
+
+
+body{
+    font-family: hel;
+    margin:0;
+    padding: 0;
+}
+.head{
+    width: 1424px;
+    height: 80px;
+ background-color: #F2F1F0;
+ display: flex;
+ justify-content: space-between;
+ justify-self: center;
+ 
+}
+#logo{
+    border-radius: 20px;
+    height: 60px;
+}
+
+
+
+.page-flex{
+    display:flex;
+    justify-content: center;
+}
+.main-flex{
+    width: 1424px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#björn1{
+    width: 448px;
+    height: 664px;
+    background-color:  #F2F1F0;
+}
+
+.product-info{
+    width: 464px;
+    height: 680px;
+     background-color:#F2F1F0 ;
+}
+h3{
+    font-size: 28px;
+    font-family: bod;
+}
+#tee{
+    font-size: 28px;
+
+}
+p{
+    line-height: 5px;
+}
+#product-image{
+    width: 448px;
+    height: 646.61px;
+   background-color: #F2F1F0;
+   
+}
+.product-info{
+    width: 344px;
+    height: 168px;
+    background-color:#F2F1F0 ;
+margin-bottom: 10px;
+}
+
+    
+
+#size{
+    width: 344px;
+    height: 24px;
+    font-size: 18px;
+    background-color: #F26B6B;
+    margin-bottom: 10px;
+  
+}
+#cart{
+    width: 344px;
+    height: 24px;
+    font-size: 18px;
+    background-color:#F26B6B;
+    margin-bottom: 10px;
+   
+}
+.material-instruction{
+    width: 344px;
+    height: 80px;
+    background-color:#F2F1F0;
+    margin-bottom: 20px;
+}
+#material-div{
+    width: 344px;
+    height: 24px;
+    background-color:#F2F1F0 ;
+}
+.customer-review{
+    width: 344px;
+    height: 120px;
+    background-color:#F2F1F0 ;
+}
+#review-text{
+    width: 344px;
+    height: 88px;
+    background-color:#F2F1F0 ;
+}
+#review-btn{
+    width: 344px;
+    height: 24px;
+    background-color:#F26B6B;
+}
+.delivery{
+    width: 344px;
+    height: 260px;
+    background-color:#F2F1F0 ;
+    margin-bottom: 10px;
+}
+
+#footer1{
+    width: 1424px;
+    height: 328px;
+  background-color: #88C9F2;
+}
+h1{
+    text-align: center;
+    background-color: #88C9F2;
+}
+#footer2{
+    width: 1424px;
+    height: 38px;
+    background-color: #88C9F2;
+}
+.footer-flex{
+    display: flex;
+    background-color: #88C9F2;
+    justify-content: space-between;
+}
+.ft{
+    list-style: none;
+}
+#footer2{
+    display: flex;
+    justify-content: space-between;
+}
